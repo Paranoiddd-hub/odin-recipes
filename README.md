@@ -1,2 +1,2 @@
 # odin-recipes
-My html project.
+This html project demonstrates fundamental html skills.
